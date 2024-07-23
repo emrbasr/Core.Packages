@@ -1,4 +1,5 @@
-﻿using Core.Persistance.Paging;
+﻿using Core.Persistance.Dynamic;
+using Core.Persistance.Paging;
 using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
